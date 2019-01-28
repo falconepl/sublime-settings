@@ -1,8 +1,15 @@
 {
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"open_files_in_new_window": false,
-	"show_full_path": true
+    "color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+    "ignored_packages":
+    [
+        "ExpandRegion",
+        "Pretty JSON",
+        "Smali",
+        "Swift",
+        "Vintage"
+    ],
+    "index_files": false,
+    "open_files_in_new_window": false,
+    "show_full_path": true,
+    "translate_tabs_to_spaces": true
 }
